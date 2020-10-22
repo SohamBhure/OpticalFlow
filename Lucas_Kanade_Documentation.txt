@@ -1,0 +1,3 @@
+Lucas Kanade- 
+This helps in finding out the flow of a object from one point to another within the camera frame
+this can be further used to detect the movement of multiple objects or environment. 
